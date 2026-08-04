@@ -18,3 +18,5 @@ graph TD
    E --> A
    E --> B
    A --> G[tag v1.0.0]
+
+[Back to Etiquette](Etiquette.md)
